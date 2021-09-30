@@ -1,0 +1,11 @@
+var sandwiches = `[{ 
+    "sandwich": "hamburger", 
+    "calories1": "260",
+    "fries_size": "Large French-Fries", 
+    "calories2": "570"
+    }]`
+
+
+// var fries = `[{ 
+//     "fries_size": "Large French Fries", 
+//     "calories2": "570" }]`
